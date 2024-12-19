@@ -1,0 +1,31 @@
+CRUD Nodejs con Express y MySQL2
+
+    Crud completo con Node js y MySQL
+    Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar y Borrar) en Node.js utilizando el framework Express y la biblioteca `mysql2`
+Pasos para crear la aplicación
+
+Paso 1: Configuración inicial
+
+1.  Crea un nuevo directorio para tu proyecto:
+
+    mkdir nodejs-crud-mysql
+    cd nodejs-crud-mysql
+
+2.  Inicializa un proyecto Node.js:
+
+    npm init -y
+
+3.  Instala las dependencias necesarias: Express, Ejs y mysql2:
+
+    npm install express ejs mysql2 cors
+
+
+Para correr el proyecto solo ejecutas
+
+    npm install o npm i
+
+Ejecutar el proyecto
+
+    node --watch app.js ----> Opcion 1
+    node app.js    -----> Opcion 2
+
